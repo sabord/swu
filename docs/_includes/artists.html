@@ -1,0 +1,55 @@
+<section id="artists">
+  <div class="image-background image-artists">
+    <div
+      class="row h-100 justify-content-center align-items-center background-overlay-primary"
+    >
+      <div class="col-sm-10 text-center mt-5">
+        <h1>Artistes</h1>
+      </div>
+    </div>
+  </div>
+  {% include artists-filters.html %}
+  <div class="container artists-flex-grid">
+    {% assign sorted_artists = site.artists | sort: 'name' %}
+    <div class="container" style="margin-top: 80px">
+      <div class="row g-4">
+        {% for artist in sorted_artists %}
+        <div
+          class="col-lg-3 col-md-4 col-sm-6 artists-flex-item artists-item"
+          data-tags="{{ artist.tags | join: ',' }}"
+          data-sound-system="{{ artist.sound-system }}"
+          data-locations="{{ artist.location | join: ',' }}"
+        >
+          <div class="card background-lighter h-100">
+            {% assign jpg_path = "assets/artists/photos/" | append:
+            artist.directory | append: "/image.jpg" %} {% assign png_path =
+            "assets/artists/photos/" | append: artist.directory | append:
+            "/image.png" %}
+            <div class="card-body" style="max-height: 250px">
+              <a
+                href="{{ artist.url | relative_url }}"
+                style="text-decoration: none"
+              >
+                <img
+                  src="{{ jpg_path }}"
+                  class="card-img-top img-responsive"
+                  alt="Photo de {{ artist.name }}"
+                  style="height: 100%; width: 100%; object-fit: contain"
+                />
+              </a>
+            </div>
+            <div class="card-footer text-center">
+              <a
+                href="{{ artist.url | relative_url }}"
+                style="text-decoration: none"
+              >
+                <div class="card-artist-name">{{ artist.name }}</div>
+              </a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

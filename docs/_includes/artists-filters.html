@@ -1,0 +1,165 @@
+<div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col col-sm-2 text-center mb-4">
+      <div class="checkbox-wrapper-8">
+        <input class="tgl tgl-skewed" id="show-filters" type="checkbox" />
+        <label
+          class="tgl-btn"
+          data-tg-off="Filtrer les artistes"
+          data-tg-on="Voir toutes les artistes"
+          for="show-filters"
+        >
+        </label>
+      </div>
+    </div>
+  </div>
+  <div class="row d-none" id="filters">
+    <div role="group" class="tag text-center">
+      <div class="filter-type">Catégories :</div>
+
+      <input
+        type="checkbox"
+        id="selecta"
+        data-filter="tag"
+        value="selecta"
+        hidden
+      />
+      <label for="selecta" class="filter-button">Selecta</label>
+
+      <input
+        type="checkbox"
+        id="productrice"
+        data-filter="tag"
+        value="productrice"
+        hidden
+      />
+      <label for="productrice" class="filter-button">Productrice</label>
+
+      <input
+        type="checkbox"
+        id="chanteuse"
+        data-filter="tag"
+        value="chanteuse"
+        hidden
+      />
+      <label for="chanteuse" class="filter-button">Chanteuse</label>
+
+      <input
+        type="checkbox"
+        id="instrumentiste"
+        data-filter="tag"
+        value="instrumentiste"
+        hidden
+      />
+      <label for="instrumentiste" class="filter-button">Instrumentiste</label>
+
+      <input
+        type="checkbox"
+        id="creatrice"
+        data-filter="tag"
+        value="créatrice visuelle"
+        hidden
+      />
+      <label for="creatrice" class="filter-button">Créatrice visuelle</label>
+    </div>
+
+    <div role="group" class="location text-center">
+      <div class="filter-type">Régions :</div>
+
+      <input
+        type="checkbox"
+        id="auvergne"
+        data-filter="location"
+        value="Auvergne-Rhône-Alpes"
+        hidden
+      />
+      <label for="auvergne" class="filter-button">Auvergne-Rhône-Alpes</label>
+
+      <input
+        type="checkbox"
+        id="bourgogne"
+        data-filter="location"
+        value="Bourgogne-Franche-Comté"
+        hidden
+      />
+      <label for="bourgogne" class="filter-button"
+        >Bourgogne-Franche-Comté</label
+      >
+
+      <input
+        type="checkbox"
+        id="bretagne"
+        data-filter="location"
+        value="Bretagne"
+        hidden
+      />
+      <label for="bretagne" class="filter-button">Bretagne</label>
+
+      <input
+        type="checkbox"
+        id="guadeloupe"
+        data-filter="location"
+        value="Guadeloupe"
+        hidden
+      />
+      <label for="guadeloupe" class="filter-button">Guadeloupe</label>
+
+      <input
+        type="checkbox"
+        id="iledefrance"
+        data-filter="location"
+        value="Île-de-France"
+        hidden
+      />
+      <label for="iledefrance" class="filter-button">Île-de-France</label>
+
+      <input
+        type="checkbox"
+        id="nouvelle"
+        data-filter="location"
+        value="Nouvelle-Aquitaine"
+        hidden
+      />
+      <label for="nouvelle" class="filter-button">Nouvelle-Aquitaine</label>
+
+      <input
+        type="checkbox"
+        id="occitanie"
+        data-filter="location"
+        value="Occitanie"
+        hidden
+      />
+      <label for="occitanie" class="filter-button">Occitanie</label>
+
+      <input
+        type="checkbox"
+        id="paysdeloire"
+        data-filter="location"
+        value="Pays de la Loire"
+        hidden
+      />
+      <label for="paysdeloire" class="filter-button">Pays de la Loire</label>
+
+      <input
+        type="checkbox"
+        id="reunion"
+        data-filter="location"
+        value="La Réunion"
+        hidden
+      />
+      <label for="reunion" class="filter-button">La Réunion</label>
+    </div>
+
+    <div role="group" class="sound-system text-center">
+      <div class="filter-type">Sound-system :</div>
+      <input
+        type="checkbox"
+        id="soundSystem"
+        data-filter="sound-system"
+        value="yes"
+        hidden
+      />
+      <label for="soundSystem" class="filter-button">avec seulement</label>
+    </div>
+  </div>
+</div>
