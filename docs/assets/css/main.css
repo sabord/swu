@@ -25,7 +25,7 @@ section {
 }
 
 .image-header {
-  background-image: url("assets/img/Collectif_Sound_Women_United_11.jpg");
+  background-image: url({{ 'assets/img/Collectif_Sound_Women_United_11.jpg' | relative_url }});
 }
 
 .image-about {
