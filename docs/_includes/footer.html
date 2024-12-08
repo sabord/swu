@@ -1,10 +1,14 @@
 <footer>
-  <div class="container">
-    <div class="row d-flex d-flex-row">
-      <div>
-        &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-12">
+          <div class="text-secondary">Crédits</div>
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <span class="text-secondary pt-1 float-md-end float-sm-start">
+            &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+          </span>
+        </div>
       </div>
-      <div>Crédits photos : XXX</div>
     </div>
-  </div>
 </footer>
