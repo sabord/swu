@@ -85,8 +85,16 @@ a:focus,
 a:active,
 a.active {
   outline: 0;
-  font-size: 20px;
   color: var(--text-color);
+}
+
+section a {
+  text-decoration: none;
+  border-bottom: var(--tertiary-color) 2px solid;
+}
+
+section a:hover {
+  color: var(--bright-color);
 }
 
 h1,
