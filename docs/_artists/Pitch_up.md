@@ -1,7 +1,7 @@
 ---
 layout: artist
 modal-id: 13
-name: Pitch'Up
+name: Pitch Up
 directory: 13_Pitch_up
 sound-system: 
 tags: 
@@ -15,7 +15,7 @@ location:
   - Occitanie
 email: pitchup7@gmail.com
 medias:
-  - youtube-video-id: 
+  - youtube-video-id: ht3K5axJpHw
   - player-1: 
   - player-2: 
   - player-3: 

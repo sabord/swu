@@ -32,7 +32,7 @@ links:
   - mixcloud: 
   - spotify: https://open.spotify.com/artist/6tfd2qAkQBjO4q6sqaJKQ0
   - deezer: https://www.deezer.com/fr/artist/281376821
-  - apple: https://music.apple.com/us/artist/yilmaz-project/1767385179
+  - apple:
 ---
 
 Musicienne polyvalente depuis l'enfance, Yilmaz a exploré la musique à travers le piano, la batterie et le chant, notamment grâce à une formation au conservatoire régional de Nantes. Son intérêt pour la composition l'a irrémédiablement menée vers les synthétiseurs et la musique assistée par ordinateur.

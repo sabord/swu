@@ -10,11 +10,12 @@ skills:
   - chanteuse
 location:
   - Provence-Alpes-Côte-d'Azur
-  - Occitanie
-email: flora.monrose@gmail.com
+  - Occitanie 
+  - Île-de-France 
+email: ceikabamusic@gmail.com
 medias:
-  - youtube-video-id: 
-  - player-1: 
+  - youtube-video-id: _pLOL_fshrc
+  - player-1: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7Etl394uP2pmOyHk8A5p6w?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   - player-2: 
   - player-3: 
 website: 
@@ -24,10 +25,10 @@ links:
   - facebook: https://www.facebook.com/ceikaba/
   - tiktok: 
   - youtube: https://www.youtube.com/@ceikaba5793
-  - soundcloud: 
+  - soundcloud: https://soundcloud.com/ceikaba/sets/ceikaba
   - bandcamp: 
   - mixcloud: 
-  - spotify: 
+  - spotify: https://open.spotify.com/intl-fr/artist/7Etl394uP2pmOyHk8A5p6w
   - deezer: 
   - apple: 
 ---

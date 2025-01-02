@@ -36,5 +36,5 @@ links:
 Houria Zion est une artiste engagée, spirituellement et politiquement, à travers sa musique.   
 En tant que collectionneuse de disques et selectress en sound system reggae, elle captive les danses en jouant du Reggae Roots to Dub et des sonorités du monde entier. 
 Sous son nom de scène, Houria Zion vous transportera dans un voyage musical profond, aussi bien méditatif que énergique dans la danse.
-Elle eu l’occasion de jouer dans des lieux populaires tel que le Hangar à Banane (Nantes) ainsi qu’ au cotés de plusieurs Sound Systems Reggae Dub de la scène Nantaises.
-Passionnée par le mouvement Sound System elle est également présente en tant Box-Woman avec Free Meditation Sound System.
+Elle eu l’occasion de jouer dans des lieux populaires tel que le Hangar à Banane (Nantes) ainsi qu’au cotés de plusieurs Sound Systems Reggae Dub de la scène Nantaises.
+Passionnée par le mouvement Sound System, elle est également présente en tant que Box-Woman avec Free Meditation Sound System.
