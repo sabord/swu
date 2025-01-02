@@ -13,7 +13,7 @@ skills:
 location:
   - Île-de-France
   - Bourgogne-Franche-Comté
-email: sistacaro@orange.fr
+email: carolinecastelli@orange.fr
 medias:
   - youtube-video-id: cKqoXt7-xyY
   - player-1: 
@@ -23,9 +23,9 @@ website:  www.sistacaro.com
 linktree: 
 links:
   - instagram: https://www.instagram.com/sistacaro7/
-  - facebook: https://www.facebook.com/sistacarodubpoetsinger et https://www.facebook.com/Sista.Caro
-  - tiktok: sistacaro7
-  - youtube: www.youtube.com/sistacaro
+  - facebook: https://www.facebook.com/SistaCaroDubpoet3?mibextid=wwXIfr&rdid=NlRfWqRwdjGLIe3i
+  - tiktok: https://www.tiktok.com/@sistacaro7
+  - youtube: https://www.youtube.com/sistacaro
   - soundcloud: 
   - bandcamp: https://sistacaro.bandcamp.com
   - mixcloud: 
