@@ -88,7 +88,9 @@ a.active {
   color: var(--text-color);
 }
 
-section a {
+#about a,
+#mixtapes a,
+#contact a {
   text-decoration: none;
   border-bottom: var(--tertiary-color) 2px solid;
 }
