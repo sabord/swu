@@ -79,14 +79,20 @@ section {
   font-weight: 500;
 }
 
-a {
-  text-decoration: none;
-}
-
 #about a,
 #mixtapes a,
 #contact a {
   border-bottom: var(--tertiary-color) 2px solid;
+}
+
+a {
+  text-decoration: none;
+  outline: 0;
+  color: var(--text-color);
+}
+
+a:hover {
+  color: var(--bright-color);
 }
 
 section a:hover {
