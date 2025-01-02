@@ -16,7 +16,7 @@ medias:
   - player-2: 
   - player-3: 
 website: 
-linktree: https://linktr.ee/YilmazProject
+linktree:
 links:
   - instagram: https://www.instagram.com/wildflower3o/?igsh=MXYzeTkwZnpqcWltMw%3D%3D&utm_source=qr
   - facebook: https://www.facebook.com/thewildflower3o

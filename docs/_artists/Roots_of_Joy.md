@@ -17,7 +17,7 @@ medias:
   - player-2: 
   - player-3: 
 website: 
-linktree: https://linktr.ee/YilmazProject
+linktree:
 links:
   - instagram: https://www.instagram.com/roots_of_joy/
   - facebook: https://www.facebook.com/profile.php?id=100038284277760
