@@ -12,8 +12,8 @@ location:
   - Auvergne-Rhône-Alpes
 email: contact.hfdrecords@gmail.com
 medias:
-  - youtube-video-id: kvLwNGbBcpw
-  - player-1: 
+  - youtube-video-id: XAD2ULQ7SmE
+  - player-1: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/506vdMl5uTlZHBTEVExbiM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   - player-2: 
   - player-3: 
 website: 
