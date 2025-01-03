@@ -74,9 +74,9 @@ section {
 }
 
 #header-subtitle {
-  margin-top: 40px;
   font-size: 20px;
   font-weight: 500;
+  opacity: 0;
 }
 
 #about a,
@@ -154,7 +154,6 @@ h1 {
   }
 
   #header-subtitle {
-    margin-top: 150px;
     font-size: 26px;
   }
 
@@ -187,8 +186,13 @@ h1 {
   }
 
   #header-subtitle {
-    margin-top: 150px;
+    /* margin-top: 150px; */
     font-size: 30px;
+    opacity: 1;
+  }
+
+  .header-subtitle-nav {
+    opacity: 0;
   }
 }
 
@@ -271,12 +275,15 @@ footer h3 {
 }
 
 .artist-name {
+  padding-top: 1em;
   font-size: 4em;
   font-weight: 600;
   text-align: left;
+  line-height: 1em;
 }
 
 .artist-skills {
+  padding-top: 1em;
   font-size: 1.5em;
   margin: 0 auto 20px;
   text-align: left;
