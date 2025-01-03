@@ -4,24 +4,46 @@
       <div
         class="row h-100 justify-content-center align-items-center background-overlay-primary"
       >
-        <div class="col-sm-10 text-center mt-5">
+        <div class="col-sm-10 text-center">
           <h1 id="header-title">Sound Women United</h1>
-          <div id="header-subtitle">
+          <div id="header-subtitle" class="mb-3">
             Sound Women United (SWU) est un réseau d'artistes féminines issues
             de la culture reggae dub.
-            <br />
-            Notre réseau réunit des selectas, productrices, musiciennes,
-            chanteuses et créatrices visuelles.
           </div>
-          <!-- <div
-            class="row header-subtitle-nav fs-2 justify-content-between"
-            style="margin-top: -150px"
-          >
-            <a href="#artists" class="col-12 col-md-3 mb-1">Artistes</a>
-            <a href="#about" class="col-12 col-md-3 mb-1">À propos</a>
-            <a href="#mixtapes" class="col-12 col-md-3 mb-1">Mixtapes</a>
-            <a href="#contact" class="col-12 col-md-3 mb-1">Contact</a>
-          </div> -->
+          <div class="row">
+            <div class="col col-xl-10 mx-auto">
+              <ul class="nav flex-column flex-md-row justify-content-between flex-nowrap fs-2">
+                <li class="nav-item">
+                  <a
+                    class="nav-link nav-link-section fw-bold"
+                    href="{{ '#artists' | relative_url}}"
+                    >Artistes <i class="fa-solid fa-caret-down"></i></a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a
+                    class="nav-link nav-link-section fw-bold"
+                    href="{{ '#about' | relative_url}}"
+                    >À propos <i class="fa-solid fa-caret-down"></i></a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a
+                    class="nav-link nav-link-section fw-bold"
+                    href="{{ '#mixtapes' | relative_url}}"
+                    >Mixtapes <i class="fa-solid fa-caret-down"></i></a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a
+                    class="nav-link nav-link-section fw-bold"
+                    href="{{ '#contact' | relative_url}}"
+                    >Contact <i class="fa-solid fa-caret-down"></i></a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
     </div>
