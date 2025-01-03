@@ -531,3 +531,15 @@ footer h3 {
   font-weight: 500;
   text-transform: uppercase;
 }
+
+.bandcamp-iframe {
+  width: 280px;
+  height: 422px;
+}
+
+@media (min-width: 992px) {
+  .bandcamp-iframe {
+    width: 350px;
+    height: 470px;
+  }
+}
