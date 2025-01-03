@@ -1,8 +1,8 @@
 ---
 layout: artist
 modal-id: 33
-name: Wildflower
-directory: 33_Wildflower
+name: Wild Flower
+directory: 33_Wild_Flower
 sound-system: 
 tags: 
   - créatrice visuelle
