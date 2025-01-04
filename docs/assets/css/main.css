@@ -141,6 +141,10 @@ header .nav-link {
   background: rgba(0, 0, 0, 0.9);
 }
 
+.navbar-toggler {
+  border-width: 3px;
+}
+
 .navbar .container-fluid {
   padding: 0 40px;
 }
