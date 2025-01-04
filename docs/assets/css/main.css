@@ -125,9 +125,8 @@ section p {
 }
 
 header .nav-link {
-  position: relative;
-  font-weight: bold;
   text-transform: uppercase;
+  font-weight: bold;
   position: relative;
   text-align: center;
   background-color: #0c0c0c;
@@ -135,8 +134,7 @@ header .nav-link {
   margin: 5px;
   box-sizing: border-box;
   display: inline-block;
-  min-height: 50px;
-  line-height: 50px;
+  font-size: 16px;
 }
 
 .navbar {
@@ -430,9 +428,17 @@ footer h3 {
   body {
     font-size: 18px;
   }
+
+  header .nav-link {
+    font-size: 18px;
+  }
 }
 
 @media (min-width: 768px) {
+  header .nav-link {
+    font-size: 20px;
+  }
+
   header .container {
     padding-top: 150px;
     padding-bottom: 25px;
@@ -464,6 +470,8 @@ footer h3 {
 @media (min-width: 1200px) {
   header .nav-link {
     transition: padding 0.3s ease;
+    padding: 13px 40px;
+    font-size: 24px;
   }
 
   header .nav-link:hover {
