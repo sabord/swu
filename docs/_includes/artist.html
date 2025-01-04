@@ -33,28 +33,37 @@
       <div class="artist-links">
         <div class="button-link">
           <ul class="list-inline">
+            <!-- Website -->
+            {% if page.website %}
+            <li class="button-text">
+              <button>
+                <a href="{{ page.website }}" target="_blank">Website</a>
+              </button>
+            </li>
+            {% endif %}
+
+            <!-- Social networks, platforms, ... -->
+            {% for platform in site.link_order %} {% assign link = '' %} {% for
+            link_hash in page.links %} {% if link_hash[platform] %} {% assign
+            link = link_hash[platform] %} {% endif %} {% endfor %} {% if link !=
+            '' %}
+            <li class="button-icon">
+              <button>
+                <a href="{{ link }}" target="_blank">
+                  <i class="fab fa-{{ platform }} fa-2x"></i>
+                </a>
+              </button>
+            </li>
+            {% endif %} {% endfor %}
+
+            <!-- Linktree -->
             {% if page.linktree %}
             <li class="button-text">
               <button>
                 <a href="{{ page.linktree }}" target="_blank">Link tree</a>
               </button>
             </li>
-            {% endif %} {% if page.website %}
-            <li class="button-text">
-              <button>
-                <a href="{{ page.website }}" target="_blank">Website</a>
-              </button>
-            </li>
-            {% endif %} {% for link_hash in page.links %} {% for link in link_hash
-            %} {% if link[1] %}
-            <li class="button-icon">
-              <button>
-                <a href="{{ link[1] }}" target="_blank"
-                  ><i class="fab fa-{{ link[0] }} fa-2x"></i
-                ></a>
-              </button>
-            </li>
-            {% endif %} {% endfor %} {% endfor %}
+            {% endif %}
           </ul>
         </div>
       </div>
@@ -96,7 +105,7 @@
     <div class="col-12 col-md-6 mb-4">
       <div class="ratio ratio-16x9">
         <iframe
-          src="//www.youtube.com/embed/{{ media[1] }}"
+          src="//www.youtube-nocookie.com/embed/{{ media[1] }}"
           allowfullscreen
         ></iframe>
       </div>
