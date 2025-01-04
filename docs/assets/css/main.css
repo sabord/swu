@@ -134,7 +134,7 @@ header .nav-link {
   margin: 5px;
   box-sizing: border-box;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .navbar {
@@ -430,13 +430,13 @@ footer h3 {
   }
 
   header .nav-link {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
 @media (min-width: 768px) {
   header .nav-link {
-    font-size: 20px;
+    font-size: 22px;
   }
 
   header .container {
