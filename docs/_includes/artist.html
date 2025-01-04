@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container g-4">
   {% assign jpg_path = "assets/artists/photos/" | append: page.directory |
   append: "/image.jpg" %} {% assign png_path = "assets/artists/photos/" |
   append: page.directory | append: "/image.png" %}
@@ -71,7 +71,7 @@
   </div>
 
   {% if page.content %}
-  <div class="row me-1">
+  <div class="row">
     <div class="col">
       <div class="artist-bio">{{ page.content }}</div>
     </div>
