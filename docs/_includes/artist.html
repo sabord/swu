@@ -73,24 +73,24 @@
   {% if page.content %}
   <div class="row me-1">
     <div class="col">
-      <div class="artist-bio fs-5">{{ page.content }}</div>
+      <div class="artist-bio">{{ page.content }}</div>
     </div>
   </div>
   {% endif %}
 
   <div class="row">
     {% if page.sound-system %}
-    <div class="col-lg-3 artist-info fs-5">
+    <div class="col-lg-3 artist-info">
       <div class="artist-info-title">Sound System</div>
       <div class="artist-info-content">{{ page.sound-system }}</div>
     </div>
     {% endif %} {% if page.location %}
-    <div class="col-lg-4 artist-info fs-5">
+    <div class="col-lg-4 artist-info">
       <div class="artist-info-title">Localisation</div>
       <div class="artist-info-content">{{ page.location | join: ', ' }}</div>
     </div>
     {% endif %} {% if page.email %}
-    <div class="col-lg-4 artist-info fs-5">
+    <div class="col-lg-4 artist-info">
       <div class="artist-info-title">Contact</div>
       <div class="artist-info-content">
         <a href="mailto:{{ page.email }}">{{ page.email }}</a>
