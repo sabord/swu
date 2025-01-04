@@ -1,7 +1,7 @@
 ---
 layout: artist
 modal-id: 1
-name: Baku
+name: Bakû
 directory: 01_Baku
 sound-system: 
 tags: 
