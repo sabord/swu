@@ -1,7 +1,7 @@
 ---
 layout: artist
 modal-id: 33
-name: Wild Flower
+name: Wildflower
 directory: 33_Wild_Flower
 sound-system: 
 tags: 

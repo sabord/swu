@@ -9,7 +9,7 @@ tags:
 skills: 
   - selecta
 location:
-  - Vaud, Suisse
+  - Suisse
 email: rootsofjoy70@gmail.com
 medias:
   - youtube-video-id: 
