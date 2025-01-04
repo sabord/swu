@@ -6,8 +6,9 @@
   --text-color: #eee;
 }
 
-html, body {
-    overflow-x: hidden;
+html,
+body {
+  overflow-x: clip;
 }
 
 body {
