@@ -1,6 +1,8 @@
 <div class="container-fluid">
   <div class="row justify-content-center">
-    <div class="col col-sm-8 col-md-7 col-lg-5 col-xl-4 col-xxl-3 text-center mb-4">
+    <div
+      class="col col-sm-8 col-md-7 col-lg-5 col-xl-4 col-xxl-3 text-center mb-4"
+    >
       <div class="checkbox-wrapper-8">
         <input class="tgl tgl-skewed" id="show-filters" type="checkbox" />
         <label
@@ -160,15 +162,18 @@
     </div>
 
     <div role="group" class="sound-system text-center">
-      <div class="filter-type">Sound-system :</div>
       <input
         type="checkbox"
         id="soundSystem"
         data-filter="sound-system"
         value="yes"
         hidden
+        class="toggle-checkbox"
       />
-      <label for="soundSystem" class="filter-button">avec seulement</label>
+      <label for="soundSystem" class="toggle-filter">
+        <span class="toggle-text toggle-with">Afficher les artistes avec sound-system</span
+        ><span class="toggle-text toggle-without">Enlever le filtre sur les sound-systems</span></label
+      >
     </div>
   </div>
 </div>
