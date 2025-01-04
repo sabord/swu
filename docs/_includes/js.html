@@ -3,3 +3,22 @@
 
 <!-- Custom JS scripts -->
 <script src="{{ '/assets/js/artists-filters.js' | relative_url }}"></script>
+
+<!-- Make navbar disappear when clicking outside the menu -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const navbar = document.querySelector('.navbar');
+    const navbarNav = document.querySelector('#navbarSupportedContent');
+    const toggler = document.querySelector('.navbar-toggler');
+
+    document.addEventListener('click', function(event) {
+      if (!navbar.contains(event.target) && navbarNav.classList.contains('show')) {
+        navbarNav.classList.remove('show');
+      }
+    });
+
+    navbar.addEventListener('click', function(event) {
+      event.stopPropagation();
+    });
+  });
+</script>
