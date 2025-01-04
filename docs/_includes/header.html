@@ -1,48 +1,52 @@
 <header>
   <div class="container-fluid h-100">
     <div class="image-background image-header">
-      <div
-        class="row h-100 justify-content-center align-items-center background-overlay-primary"
-      >
-        <div class="col-sm-10 text-center">
-          <h1 id="header-title">Sound Women United</h1>
-          <div id="header-subtitle" class="mb-3">
-            Sound Women United (SWU) est un réseau d'artistes féminines issues
-            de la culture reggae dub.
-          </div>
-          <div class="row">
-            <div class="col col-xl-10 mx-auto">
-              <ul class="nav flex-column flex-md-row justify-content-between flex-nowrap fs-2">
-                <li class="nav-item">
-                  <a
-                    class="nav-link nav-link-section fw-bold"
-                    href="{{ '#artists' | relative_url}}"
-                    >Artistes <i class="fa-solid fa-caret-down"></i></a
-                  >
-                </li>
-                <li class="nav-item">
-                  <a
-                    class="nav-link nav-link-section fw-bold"
-                    href="{{ '#about' | relative_url}}"
-                    >À propos <i class="fa-solid fa-caret-down"></i></a
-                  >
-                </li>
-                <li class="nav-item">
-                  <a
-                    class="nav-link nav-link-section fw-bold"
-                    href="{{ '#mixtapes' | relative_url}}"
-                    >Mixtapes <i class="fa-solid fa-caret-down"></i></a
-                  >
-                </li>
-                <li class="nav-item">
-                  <a
-                    class="nav-link nav-link-section fw-bold"
-                    href="{{ '#contact' | relative_url}}"
-                    >Contact <i class="fa-solid fa-caret-down"></i></a
-                  >
-                </li>
-              </ul>
+      <div class="row h-100 background-overlay-primary">
+        <div class="row justify-content-center align-content-around">
+          <div class="col text-center mx-3">
+            <h1 class="display-1 fw-bold">Sound Women United</h1>
+            <div class="mb-3 display-6">
+              Sound Women United (SWU) est un réseau d'artistes féminines issues
+              de la culture reggae dub.
             </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col col-lg-10 mx-auto">
+            <ul
+              class="nav flex-column flex-lg-row justify-content-between flex-nowrap fs-2"
+            >
+              <li class="nav-item">
+                <a
+                  class="nav-link nav-link-section h2"
+                  href="{{ '#artists' | relative_url}}"
+                  ><i class="fa-solid fa-caret-down"></i> Artistes
+                </a>
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link nav-link-section h2"
+                  href="{{ '#about' | relative_url}}"
+                  ><i class="fa-solid fa-caret-down"></i> À propos
+                </a>
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link nav-link-section h2"
+                  href="{{ '#mixtapes' | relative_url}}"
+                  ><i class="fa-solid fa-caret-down"></i> Mixtapes
+                </a>
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link nav-link-section h2"
+                  href="{{ '#contact' | relative_url}}"
+                >
+                  <i class="fa-solid fa-caret-down"></i> Contact</a
+                >
+              </li>
+            </ul>
           </div>
         </div>
       </div>
