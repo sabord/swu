@@ -275,7 +275,6 @@ footer h3 {
 
 .artist-name {
   padding-top: 1em;
-  font-size: 4em;
   font-weight: 600;
   text-align: left;
   line-height: 1em;
@@ -283,7 +282,6 @@ footer h3 {
 
 .artist-skills {
   padding-top: 1em;
-  font-size: 1.5em;
   margin: 0 auto 20px;
   text-align: left;
   font-weight: 500;
@@ -297,7 +295,6 @@ footer h3 {
 }
 
 .artist-info {
-  font-size: 1.2em;
   text-align: left;
   border-left: 3px solid #ddd;
   padding-top: 5px;
@@ -307,19 +304,16 @@ footer h3 {
 }
 
 .artist-info-title {
-  font-size: 1em;
   color: #9c9c9c;
   text-transform: uppercase;
 }
 
 .artist-info-content {
-  font-size: 1.1em;
   text-align: left;
 }
 
 .artist-bio {
   margin: 3em auto;
-  font-size: 1.2em;
   text-align: justify;
 }
 

@@ -13,13 +13,13 @@
   </div>
   <div class="row">
     <div class="col">
-      <div class="artist-name">{{ page.name }}</div>
+      <div class="artist-name display-1">{{ page.name }}</div>
     </div>
   </div>
   <div class="row">
     <div class="col">
       {% if page.skills %}
-      <div class="artist-skills">
+      <div class="artist-skills fs-2">
         {% for i in (0..page.skills.size) %}
         <span> {{ page.skills[i] }}</span>
         {% endfor %}
@@ -73,24 +73,24 @@
   {% if page.content %}
   <div class="row me-1">
     <div class="col">
-      <div class="artist-bio">{{ page.content }}</div>
+      <div class="artist-bio fs-5">{{ page.content }}</div>
     </div>
   </div>
   {% endif %}
 
   <div class="row">
     {% if page.sound-system %}
-    <div class="col-lg-3 artist-info">
+    <div class="col-lg-3 artist-info fs-5">
       <div class="artist-info-title">Sound System</div>
       <div class="artist-info-content">{{ page.sound-system }}</div>
     </div>
     {% endif %} {% if page.location %}
-    <div class="col-lg-4 artist-info">
+    <div class="col-lg-4 artist-info fs-5">
       <div class="artist-info-title">Localisation</div>
       <div class="artist-info-content">{{ page.location | join: ', ' }}</div>
     </div>
     {% endif %} {% if page.email %}
-    <div class="col-lg-4 artist-info">
+    <div class="col-lg-4 artist-info fs-5">
       <div class="artist-info-title">Contact</div>
       <div class="artist-info-content">
         <a href="mailto:{{ page.email }}">{{ page.email }}</a>
