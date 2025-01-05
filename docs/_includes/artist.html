@@ -1,4 +1,4 @@
-<div class="container g-4">
+<div class="container container-sm g-4">
   {% assign jpg_path = "assets/artists/photos/" | append: page.directory |
   append: "/image.jpg" %} {% assign png_path = "assets/artists/photos/" |
   append: page.directory | append: "/image.png" %}
@@ -6,31 +6,29 @@
     <img
       src="{{ jpg_path | relative_url}}"
       class="mx-auto d-block img-responsive"
-      style="max-height: 55vh; object-fit: contain"
+      style="max-height: 60vh; object-fit: contain"
       alt="Photo de {{ page.name }}"
       onerror="this.onerror=null; this.src='{{ png_path | relative_url}}';"
     />
   </div>
-  <div class="row">
+  <!-- Name -->
+  <div class="row mb-2">
     <div class="col">
-      <div class="artist-name display-1">{{ page.name }}</div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      {% if page.skills %}
-      <div class="artist-skills fs-2">
-        {% for i in (0..page.skills.size) %}
-        <span> {{ page.skills[i] }}</span>
-        {% endfor %}
-      </div>
-      {% endif %}
+      <div class="display-3 fw-bold">{{ page.name }}</div>
     </div>
   </div>
 
-  <div class="row">
+  <!-- Skills -->
+  <div class="row mb-4">
+    <div class="col fs-3">
+      {% if page.skills %} {% for i in (0..page.skills.size) %}
+      <span class="pe-4"> {{ page.skills[i] }}</span>
+      {% endfor %} {% endif %}
+    </div>
+  </div>
+
+  <div class="row mb-4">
     <div class="col">
-      <div class="artist-links">
         <div class="button-link">
           <ul class="list-inline">
             <!-- Website -->
@@ -50,7 +48,7 @@
             <li class="button-icon">
               <button>
                 <a href="{{ link }}" target="_blank">
-                  <i class="fab fa-{{ platform }} fa-2x"></i>
+                  <i class="fab fa-{{ platform }} fa-lg"></i>
                 </a>
               </button>
             </li>
@@ -66,19 +64,20 @@
             {% endif %}
           </ul>
         </div>
-      </div>
     </div>
   </div>
 
+  <!-- Bio -->
   {% if page.content %}
-  <div class="row">
+  <div class="row mb-4">
     <div class="col">
-      <div class="artist-bio">{{ page.content }}</div>
+      <div style="text-align: justify;">{{ page.content }}</div>
     </div>
   </div>
   {% endif %}
 
-  <div class="row">
+  <!-- Sound system, location, contact -->
+  <div class="row mb-5">
     {% if page.sound-system %}
     <div class="col-lg-3 artist-info">
       <div class="artist-info-title">Sound System</div>
@@ -99,6 +98,7 @@
     {% endif %}
   </div>
 
+  <!-- Media players -->
   <div class="row justify-content-center my-5">
     {% for media_hash in page.medias %} {% for media in media_hash %} {% if
     media[1] %} {% if media[0] == "youtube-video-id" %}
