@@ -395,6 +395,10 @@ footer h3 {
   display: none;
 }
 
+.responsive-large-text {
+  font-size: 1.2rem;
+}
+
 @media (min-width: 576px) {
   body {
     font-size: 18px;
@@ -402,6 +406,10 @@ footer h3 {
 
   header .nav-link {
     font-size: 20px;
+  }
+
+  .responsive-large-text {
+    font-size: 1.25rem;
   }
 }
 
@@ -435,12 +443,20 @@ footer h3 {
   .navbar-fixed-top.navbar-shrink {
     padding: 5px 0;
   }
+
+  .responsive-large-text {
+    font-size: 1.3rem;
+  }
 }
 
 @media (min-width: 992px) {
   .bandcamp-iframe {
     width: 350px;
     height: 470px;
+  }
+
+  .responsive-large-text {
+    font-size: 1.4rem;
   }
 }
 

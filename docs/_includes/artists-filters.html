@@ -1,4 +1,11 @@
-<div class="container-fluid">
+<div class="row justify-content-center mx-1">
+  <div class="text-center mb-3 responsive-large-text">
+    Vous cherchez une artiste à programmer<nobr> ?</nobr><br />
+    Découvrir les artistes de votre région<nobr> ?</nobr>
+    <br />
+  </div>
+
+  <!-- Filter artists buttons -->
   <div class="row justify-content-center">
     <div
       class="col col-sm-8 col-md-7 col-lg-5 col-xl-4 col-xxl-3 text-center mb-4"
@@ -15,177 +22,186 @@
       </div>
     </div>
   </div>
-  <div class="row d-none" id="filters">
-    <div role="group" class="tag text-center">
-      <div class="filter-type">Catégories :</div>
 
-      <input
-        type="checkbox"
-        id="selecta"
-        data-filter="tag"
-        value="selecta"
-        hidden
-      />
-      <label for="selecta" class="filter-button">Selecta</label>
+  <!-- All filters -->
+  <div class="col col-lg-9 mx-3">
+    <div class="row" id="filters">
+      <div role="group" class="tag text-center">
+        <!-- Catégories -->
+        <div class="filter-type">Catégories :</div>
 
-      <input
-        type="checkbox"
-        id="productrice"
-        data-filter="tag"
-        value="productrice"
-        hidden
-      />
-      <label for="productrice" class="filter-button">Productrice</label>
+        <input
+          type="checkbox"
+          id="selecta"
+          data-filter="tag"
+          value="selecta"
+          hidden
+        />
+        <label for="selecta" class="filter-button">Selecta</label>
 
-      <input
-        type="checkbox"
-        id="chanteuse"
-        data-filter="tag"
-        value="chanteuse"
-        hidden
-      />
-      <label for="chanteuse" class="filter-button">Chanteuse</label>
+        <input
+          type="checkbox"
+          id="productrice"
+          data-filter="tag"
+          value="productrice"
+          hidden
+        />
+        <label for="productrice" class="filter-button">Productrice</label>
 
-      <input
-        type="checkbox"
-        id="instrumentiste"
-        data-filter="tag"
-        value="instrumentiste"
-        hidden
-      />
-      <label for="instrumentiste" class="filter-button">Instrumentiste</label>
+        <input
+          type="checkbox"
+          id="chanteuse"
+          data-filter="tag"
+          value="chanteuse"
+          hidden
+        />
+        <label for="chanteuse" class="filter-button">Chanteuse</label>
 
-      <input
-        type="checkbox"
-        id="creatrice"
-        data-filter="tag"
-        value="créatrice visuelle"
-        hidden
-      />
-      <label for="creatrice" class="filter-button">Créatrice visuelle</label>
-    </div>
+        <input
+          type="checkbox"
+          id="instrumentiste"
+          data-filter="tag"
+          value="instrumentiste"
+          hidden
+        />
+        <label for="instrumentiste" class="filter-button">Instrumentiste</label>
 
-    <div role="group" class="location text-center">
-      <div class="filter-type">Régions :</div>
+        <input
+          type="checkbox"
+          id="creatrice"
+          data-filter="tag"
+          value="créatrice visuelle"
+          hidden
+        />
+        <label for="creatrice" class="filter-button">Créatrice visuelle</label>
+      </div>
 
-      <input
-        type="checkbox"
-        id="auvergne"
-        data-filter="location"
-        value="Auvergne-Rhône-Alpes"
-        hidden
-      />
-      <label for="auvergne" class="filter-button">Auvergne-Rhône-Alpes</label>
+      <!-- Régions -->
+      <div role="group" class="location text-center">
+        <div class="filter-type">Régions :</div>
 
-      <input
-        type="checkbox"
-        id="bourgogne"
-        data-filter="location"
-        value="Bourgogne-Franche-Comté"
-        hidden
-      />
-      <label for="bourgogne" class="filter-button"
-        >Bourgogne-Franche-Comté</label
-      >
+        <input
+          type="checkbox"
+          id="auvergne"
+          data-filter="location"
+          value="Auvergne-Rhône-Alpes"
+          hidden
+        />
+        <label for="auvergne" class="filter-button">Auvergne-Rhône-Alpes</label>
 
-      <input
-        type="checkbox"
-        id="bretagne"
-        data-filter="location"
-        value="Bretagne"
-        hidden
-      />
-      <label for="bretagne" class="filter-button">Bretagne</label>
+        <input
+          type="checkbox"
+          id="bourgogne"
+          data-filter="location"
+          value="Bourgogne-Franche-Comté"
+          hidden
+        />
+        <label for="bourgogne" class="filter-button"
+          >Bourgogne-Franche-Comté</label
+        >
 
-      <input
-        type="checkbox"
-        id="guadeloupe"
-        data-filter="location"
-        value="Guadeloupe"
-        hidden
-      />
-      <label for="guadeloupe" class="filter-button">Guadeloupe</label>
+        <input
+          type="checkbox"
+          id="bretagne"
+          data-filter="location"
+          value="Bretagne"
+          hidden
+        />
+        <label for="bretagne" class="filter-button">Bretagne</label>
 
-      <input
-        type="checkbox"
-        id="iledefrance"
-        data-filter="location"
-        value="Île-de-France"
-        hidden
-      />
-      <label for="iledefrance" class="filter-button">Île-de-France</label>
+        <input
+          type="checkbox"
+          id="guadeloupe"
+          data-filter="location"
+          value="Guadeloupe"
+          hidden
+        />
+        <label for="guadeloupe" class="filter-button">Guadeloupe</label>
 
-      <input
-        type="checkbox"
-        id="nouvelle"
-        data-filter="location"
-        value="Nouvelle-Aquitaine"
-        hidden
-      />
-      <label for="nouvelle" class="filter-button">Nouvelle-Aquitaine</label>
+        <input
+          type="checkbox"
+          id="iledefrance"
+          data-filter="location"
+          value="Île-de-France"
+          hidden
+        />
+        <label for="iledefrance" class="filter-button">Île-de-France</label>
 
-      <input
-        type="checkbox"
-        id="occitanie"
-        data-filter="location"
-        value="Occitanie"
-        hidden
-      />
-      <label for="occitanie" class="filter-button">Occitanie</label>
+        <input
+          type="checkbox"
+          id="nouvelle"
+          data-filter="location"
+          value="Nouvelle-Aquitaine"
+          hidden
+        />
+        <label for="nouvelle" class="filter-button">Nouvelle-Aquitaine</label>
 
-      <input
-        type="checkbox"
-        id="paysdeloire"
-        data-filter="location"
-        value="Pays de la Loire"
-        hidden
-      />
-      <label for="paysdeloire" class="filter-button">Pays de la Loire</label>
+        <input
+          type="checkbox"
+          id="occitanie"
+          data-filter="location"
+          value="Occitanie"
+          hidden
+        />
+        <label for="occitanie" class="filter-button">Occitanie</label>
 
-      <input
-        type="checkbox"
-        id="paca"
-        data-filter="location"
-        value="Provence-Alpes-Côte-d'Azur"
-        hidden
-      />
-      <label for="paca" class="filter-button">Provence-Alpes-Côte-d'Azur</label>
+        <input
+          type="checkbox"
+          id="paysdeloire"
+          data-filter="location"
+          value="Pays de la Loire"
+          hidden
+        />
+        <label for="paysdeloire" class="filter-button">Pays de la Loire</label>
 
-      <input
-        type="checkbox"
-        id="reunion"
-        data-filter="location"
-        value="La Réunion"
-        hidden
-      />
-      <label for="reunion" class="filter-button">La Réunion</label>
+        <input
+          type="checkbox"
+          id="paca"
+          data-filter="location"
+          value="Provence-Alpes-Côte-d'Azur"
+          hidden
+        />
+        <label for="paca" class="filter-button"
+          >Provence-Alpes-Côte-d'Azur</label
+        >
 
-      <input
-        type="checkbox"
-        id="abroad"
-        data-filter="location"
-        value="Suisse"
-        hidden
-      />
-      <label for="abroad" class="filter-button">Hors France</label>
-    </div>
+        <input
+          type="checkbox"
+          id="reunion"
+          data-filter="location"
+          value="La Réunion"
+          hidden
+        />
+        <label for="reunion" class="filter-button">La Réunion</label>
 
-    <div role="group" class="sound-system text-center">
-      <input
-        type="checkbox"
-        id="soundSystem"
-        data-filter="sound-system"
-        value="yes"
-        hidden
-        class="toggle-checkbox"
-      />
-      <label for="soundSystem" class="toggle-filter">
-        <span class="toggle-text toggle-with"
-          >Afficher les artistes avec sound-system</span
-        ><span class="toggle-text toggle-without"
-          >Enlever le filtre sur les sound-systems</span
-        ></label
-      >
+        <input
+          type="checkbox"
+          id="abroad"
+          data-filter="location"
+          value="Suisse"
+          hidden
+        />
+        <label for="abroad" class="filter-button">Hors France</label>
+      </div>
+
+      <!-- Sound-system -->
+      <div role="group" class="sound-system text-center">
+        <input
+          type="checkbox"
+          id="soundSystem"
+          data-filter="sound-system"
+          value="yes"
+          hidden
+          class="toggle-checkbox"
+        />
+        <label for="soundSystem" class="toggle-filter">
+          <span class="toggle-text toggle-with"
+            >Afficher les artistes avec sound-system</span
+          ><span class="toggle-text toggle-without"
+            >Enlever le filtre sur les sound-systems</span
+          ></label
+        >
+      </div>
     </div>
   </div>
 </div>
