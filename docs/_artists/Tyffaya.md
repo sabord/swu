@@ -10,7 +10,8 @@ skills:
   - selecta
   - operator
 location:
-  - Bretagne, Normandie
+  - Bretagne
+  - Normandie
 email: tyffaya.roots@gmail.com
 medias:
   - youtube-video-id: 
