@@ -1,14 +1,16 @@
 ---
 layout: artist
 modal-id: 19
-name: Sky Chris
-directory: 19_Sky_Chris
+name: Sky Chrys
+directory: 19_Sky_Chrys
 sound-system: Equality Hifi Sound System
 tags: 
   - selecta
+  - productrice
 skills: 
   - selecta
   - operator
+  - productrice
 location:
   - La Réunion
 email: christyna.barcello@gmail.com
@@ -20,7 +22,7 @@ medias:
 website: 
 linktree: 
 links:
-  - instagram: https://www.instagram.com/sky_chrys?igsh=MWd0eDFpcG9kdWlsYQ==&amp;utm_source=qr
+  - instagram: https://www.instagram.com/sky_chrys/profilecard/?igsh=MWd0eDFpcG9kdWlsYQ==
   - facebook: https://www.facebook.com/profile.php?id=100008123205202
   - tiktok: 
   - youtube: 

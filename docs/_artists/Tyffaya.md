@@ -1,7 +1,7 @@
 ---
 layout: artist
 modal-id: 22
-name: Tyffaya aka Ifrica
+name: Tyffaya aka Irifrica
 directory: 22_Tyffaya
 sound-system: 
 tags: 
@@ -10,7 +10,7 @@ skills:
   - selecta
   - operator
 location:
-  - Bretagne
+  - Bretagne, Normandie
 email: tyffaya.roots@gmail.com
 medias:
   - youtube-video-id: 
