@@ -21,8 +21,7 @@
 title: Sound Women United
 email: soundwomenunited@gmail.com
 domain: sabord.github.io
-url: https://sabord.github.io
-baseurl: /swu
+url: https://soundwomenunited.com
 description: >-
   Sound Women United (SWU) est un réseau d'artistes féminines 
   issues de la culture reggae dub. 
@@ -33,6 +32,9 @@ meta_author: Sound Women United
 # Collections
 collections:
   artists:
+    output: true
+    permalink: /:name/
+  pages:
     output: true
     permalink: /:name/
 
