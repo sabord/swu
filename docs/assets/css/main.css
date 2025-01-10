@@ -30,27 +30,27 @@ section {
 }
 
 .image-header {
-  background-image: url("../img/Collectif_Sound_Women_United_11.jpg");
+  background-image: url("../img/Header_Collectif_Sound_Women_United.jpg");
 }
 
 .image-about {
   max-height: 400px;
-  background-image: url("../img/Collectif_Sound_Women_United_15.jpg");
+  background-image: url("../img/About_Collectif_Sound_Women_United.jpg");
 }
 
 .image-mixtapes {
   max-height: 400px;
-  background-image: url("../img/Collectif_Sound_Women_United_21.jpg");
+  background-image: url("../img/Mixtapes_Collectif_Sound_Women_United.jpg");
 }
 
 .image-artists {
   max-height: 400px;
-  background-image: url("../img/Collectif_Sound_Women_United_22.jpg");
+  background-image: url("../img/Artists_Collectif_Sound_Women_United.jpg");
 }
 
 .image-contact {
   max-height: 400px;
-  background-image: url("../img/Collectif_Sound_Women_United_4.jpg");
+  background-image: url("../img/Contact_Collectif_Sound_Women_United.jpg");
 }
 
 .background-overlay-primary {
