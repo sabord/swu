@@ -36,8 +36,7 @@ links:
   - apple: https://music.apple.com/fr/album/aurora-ep/1635536547
 ---
 
-Livia a commencé la musique en Bolivie, à 10 ans avec le piano et le chant. C’est en France qu’elle touche la basse pour la première fois à l’âge adulte et ce fut la révélation. Après s’être testée aux covers, en 2014, elle rejoint un groupe de musique folklorique bolivienne à Toulouse, Wayra Tambo, puis un groupe de reggae The Sign avec lequel elle restera 3 ans. C’est là qu’elle tombe amoureuse du reggae et surtout du dub.
-Ainsi, elle créa avec son compagnon, Gaïa Dub un duo qui lui a permis de devenir une musicienne accomplie, tant dans la composition que dans l’interprétation. Le chant lui permet enfin d’exprimer sa poésie qu’elle tenait secrète jusque-là.
+Livia, bassiste, claviériste, chanteuse et productrice, a commencé la musique en Bolivie, à 10 ans avec le piano et le chant et c’est en France qu’elle touche la basse pour la première fois à l’âge adulte et ce fut la révélation. Après s’être testée aux covers, à la musique folklorique bolivienne puis au reggae, elle créa avec son compagnon, Gaïa Dub un duo électro-acoustique de dub fusion qui lui a permis de devenir une musicienne accomplie, tant dans la composition que dans l’interprétation. Le chant lui permet enfin d’exprimer sa poésie qu’elle tenait secrète jusque-là.
 
 Quand le dub devient hybride et fusionne avec la drum’n bass, la jungle, le trip hop ou la cumbia, cela donne Gaïa Dub, un univers où vous découvrirez des textes engagés sur l’amour de la nature et l’évasion spatiale. Le groove de la basse et le voyage du sax joués en live sont accompagnés de samples et de synthétiseurs enivrants. Livia Luna à la basse, au chant, au clavier et Julien au sax, au chant et aux machines, marient le dub et les différentes influences électro qu’ils ont en commun.
 
