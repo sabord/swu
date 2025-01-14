@@ -6,11 +6,9 @@ directory: 19_Sky_Chrys
 sound-system: Equality Hifi Sound System
 tags: 
   - selecta
-  - productrice
 skills: 
   - selecta
   - operator
-  - productrice
 location:
   - La Réunion
 email: christyna.barcello@gmail.com
