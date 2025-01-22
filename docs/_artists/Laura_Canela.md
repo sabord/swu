@@ -14,7 +14,7 @@ skills:
   - DJ
 location:
   - Nouvelle-Aquitaine
-email: lauracanelamusic@gmail.com
+email: lauracanelamusicc@gmail.com
 medias:
   - youtube-video-id: uIxRqG9-9rw
   - player-1: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6rlTnF855M3ycK9ljY7qxp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
