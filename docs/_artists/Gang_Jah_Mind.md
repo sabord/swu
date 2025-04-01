@@ -12,7 +12,7 @@ location:
   - Provence-Alpes-Côte-d'Azur
 email: gangjahmindofficiel@gmail.com
 medias:
-  - youtube-video-id: 
+  - youtube-video-id: ln67qwDuZRk
   - player-1: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4cWRwTCGCLEVYCQJycxUx0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   - player-2: 
   - player-3: 
