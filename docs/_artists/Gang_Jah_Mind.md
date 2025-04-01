@@ -9,7 +9,7 @@ tags:
 skills: 
   - chanteuses
 location:
-  - Provence-Alpes-Côte d'Azur
+  - Provence-Alpes-Côte-d'Azur
 email: gangjahmindofficiel@gmail.com
 medias:
   - youtube-video-id: 
