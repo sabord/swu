@@ -30,7 +30,7 @@ links:
   - bandcamp: https://monsieuretmadameloops.bandcamp.com/
   - mixcloud: 
   - spotify: https://open.spotify.com/intl-fr/artist/0KkVhm40wijTzJi6Z7NE5U?si=x-Yy0NKlTjWvpDer_NqzFQ
-  - deezer: https://docs.google.com/spreadsheets/d/1kF6T_DbB49kWPIMJKHmHYbzWc2sDuuck/edit?gid=658831364#gid=658831364
+  - deezer: https://dzr.page.link/GsHxg8jtSR7SuHfE9
   - apple: https://music.apple.com/fr/artist/monsieur-et-madame-loops/1545186846
 ---
 

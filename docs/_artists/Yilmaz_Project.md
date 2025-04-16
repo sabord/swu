@@ -9,8 +9,8 @@ tags:
   - instrumentiste
 skills: 
   - productrice
-  - clavieriste
-  - ingénieure du son
+  - musicienne
+  - régisseuse son
 location:
   - Pays de la Loire
   - Bretagne
