@@ -1,8 +1,8 @@
 ---
 layout: artist
 modal-id: 38
-name: RudeGirl Cool
-directory: 38_RudeGirl_Cool
+name: RudeGirlCool
+directory: 38_RudeGirlCool
 sound-system: Improvisators Dub I-Dub Sound - a Roots System
 tags: 
   - créatrice visuelle
