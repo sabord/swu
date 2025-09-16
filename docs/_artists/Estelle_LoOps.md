@@ -1,7 +1,7 @@
 ---
 layout: artist
 modal-id: 40
-name: Escandalosa
+name: Estelle LoOps
 directory: 40_Monsieur_et_Madame_LOops
 sound-system: 
 tags: 
