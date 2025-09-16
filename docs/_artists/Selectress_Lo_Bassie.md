@@ -35,7 +35,7 @@ links:
 
 Passionnée de musique consciente et d’art en général.
 
-Selectress Lo Bassie évolue depuis plusieurs décennies en tant que selectress et musicienne bassiste en France, notamment à Paris, bercée par une abondante culture musicale. Son intérêt pour le reggae et les musiques noires est profond, transmis par ses parents eux-mêmes collectionneurs de vinyles et passionnés de cette musique. Ancrée dans ses racines africaines, son univers est teinté de reggae, soul, hip-hop, jazz et afrobeat, avec une dominante vintage. Elle joue en vinyles comme en numérique, et aime traduire oralement ses sélections pendant les sessions, pour une meilleure compréhension des messages par son public.
+Selectress Lo Bassie évolue depuis plusieurs décennies en tant que selectress et musicienne bassiste en France, notamment à Paris, bercée par une abondante culture musicale. Son intérêt pour le reggae et les musiques noires est profond, transmis par ses parents eux-mêmes collectionneurs de vinyles et passionnés de cette musique. Ancrée dans ses racines africaines, son univers est teinté de reggae, soul, hip-hop, jazz et afrobeat, avec une dominante vintage. Elle joue en vinyles, et aime traduire oralement ses sélections pendant les sessions, pour une meilleure compréhension des messages par son public.
 
 En 2022, elle crée un média, anciennement nommé « Née pour l’époque », qui transmet, à travers des traductions de titres et de clips vidéo, une meilleure compréhension des messages du reggae. En parallèle, elle se produit sur des scènes de la Caraïbe (Guadeloupe, Martinique).
 
