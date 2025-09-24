@@ -13,7 +13,7 @@ location:
 email: bookingsamarenuka@gmail.com
 medias:
   - youtube-video-id: BauVzZWrufo
-  - player-1: <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/174896732&color=%23bb9531&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+  - player-1: <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1258296016&color=%23bb9531&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
   - player-2: 
   - player-3: 
 website: 
