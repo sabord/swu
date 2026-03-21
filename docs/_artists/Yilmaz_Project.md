@@ -8,16 +8,16 @@ tags:
   - productrice
   - instrumentiste
 skills: 
-  - productrice
-  - musicienne
-  - régisseuse son
+  - downtempo
+  - trip hop
+  - dub
 location:
   - Pays de la Loire
   - Bretagne
 email: yilmazproject@gmail.com
 medias:
   - youtube-video-id: wpJllVVaDH4
-  - player-1: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6tfd2qAkQBjO4q6sqaJKQ0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  - player-1: <iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/artist/281376821/top_tracks" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
   - player-2: 
   - player-3: 
 website: 
@@ -35,10 +35,9 @@ links:
   - apple:
 ---
 
-Musicienne polyvalente depuis l'enfance, Yilmaz a exploré la musique à travers le piano, la batterie et le chant, notamment grâce à une formation au conservatoire régional de Nantes. Son intérêt pour la composition l'a irrémédiablement menée vers les synthétiseurs et la musique assistée par ordinateur.
+Yilmaz Project est une artiste compositrice qui développe un univers musical à la croisée du downtempo, du trip-hop et du dub.
 
-Fascinée par la complexité du Vivant, Yilmaz Project a parallèlement poursuivi des études en biologie, obtenant un doctorat de recherche. Cependant, son amour inébranlable pour la musique l'a poussée à se reconvertir avec l'objectif de vivre pleinement de sa passion, que ce soit sur scène ou derrière la console.
+Musicienne polyvalente depuis son enfance, elle se forme au piano, à la batterie et au chant. Rapidement attirée par la création sonore, elle s’oriente vers la composition, les synthétiseurs et la musique assistée par ordinateur, trouvant dans ces outils un terrain d’expression plus intuitif et expérimental. 
+Parallèlement, sa fascination pour la complexité du vivant la conduit à entreprendre des études en biologie, qu’elle poursuit jusqu’à l’obtention d’un doctorat.
 
-Ses créations, rythmées par des kicks trip-hop à techno, mêlent des harmonies riches et subtiles à des touches de dub. Inspirée par la biosphère, Yilmaz transporte l’auditeur vers des atmosphères éthérées...
-
-Yilmaz Project sort un single tous les mois! Découvrez son univers sur ses réseaux ainsi que sur toutes les plateformes de streaming.
+C’est sous le nom d’Yilmaz Project, que ses deux passions se rejoignent, donnant vie à des paysages sonores inspirés par la biosphère et façonnés par une approche à la fois sensible et analytique du monde vivant.
