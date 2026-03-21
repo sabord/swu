@@ -34,10 +34,10 @@ links:
   - deezer: https://www.deezer.com/fr/artist/281376821
   - apple:
 ---
+Yilmaz Project développe un univers musical à la croisée du downtempo, du trip-hop et du dub.
 
-Yilmaz Project est une artiste compositrice qui développe un univers musical à la croisée du downtempo, du trip-hop et du dub.
-
-Musicienne polyvalente depuis son enfance, elle se forme au piano, à la batterie et au chant. Rapidement attirée par la création sonore, elle s’oriente vers la composition, les synthétiseurs et la musique assistée par ordinateur, trouvant dans ces outils un terrain d’expression plus intuitif et expérimental. 
+Musicienne polyvalente depuis son enfance, elle se forme au piano, à la batterie et au chant. Attirée par la création sonore, elle s’oriente rapidement vers la composition, les synthétiseurs et la musique assistée par ordinateur, trouvant dans ces outils un terrain d’expression plus intuitif et expérimental. 
 Parallèlement, sa fascination pour la complexité du vivant la conduit à entreprendre des études en biologie, qu’elle poursuit jusqu’à l’obtention d’un doctorat.
 
-C’est sous le nom d’Yilmaz Project, que ses deux passions se rejoignent, donnant vie à des paysages sonores inspirés par la biosphère et façonnés par une approche à la fois sensible et analytique du monde vivant.
+C’est sous le nom d’Yilmaz Project, que ses deux passions se rejoignent enfin ; donnant vie à des paysages sonores façonnés par une approche à la fois sensible et analytique du monde vivant. Un chaos organisé s’inspirant de la biosphère.
+
