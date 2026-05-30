@@ -17,7 +17,7 @@ location:
 email: contact.ymaz@gmail.com
 medias:
   - youtube-video-id: wpJllVVaDH4
-  - player-1: <iframe src="https://open.spotify.com/embed/artist/0JmUYUoHNrYiLfz97M1Hlf? width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  - player-1: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0JmUYUoHNrYiLfz97M1Hlf?utm_source=generator"utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   - player-2: 
   - player-3: 
 website: 
