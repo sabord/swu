@@ -34,8 +34,8 @@ links:
   - deezer: https://www.deezer.com/fr/artist/300403331
   - apple:
 ---
-	YMAZ développe un univers musical à la croisée du downtempo, du trip-hop et du dub.
+YMAZ développe un univers musical à la croisée du downtempo, du trip-hop et du dub.
 
-	Musicienne polyvalente depuis son enfance, YMAZ se forme au piano, à la batterie et au chant. Attirée par la création sonore, elle s’oriente vers la composition, les synthétiseurs et la musique assistée par ordinateur, trouvant dans ces outils un terrain d’expression intuitif et expérimental.  Parallèlement, sa fascination pour la complexité du vivant la conduit à entreprendre des études en biologie, qu’elle poursuit jusqu’à l’obtention d’un doctorat.
+Musicienne polyvalente depuis son enfance, YMAZ se forme au piano, à la batterie et au chant. Attirée par la création sonore, elle s’oriente vers la composition, les synthétiseurs et la musique assistée par ordinateur, trouvant dans ces outils un terrain d’expression intuitif et expérimental.  Parallèlement, sa fascination pour la complexité du vivant la conduit à entreprendre des études en biologie, qu’elle poursuit jusqu’à l’obtention d’un doctorat.
 
-	C’est sous le nom d’YMAZ, que ses deux passions se rejoignent enfin ; une musique mêlant rythmes complexes et riches textures harmoniques, façonnés par une approche à la fois sensible et analytique du monde vivant. Un chaos organisé s’inspirant de la Biosphère.
+C’est sous le nom d’YMAZ, que ses deux passions se rejoignent enfin ; une musique mêlant rythmes complexes et riches textures harmoniques, façonnés par une approche à la fois sensible et analytique du monde vivant. Un chaos organisé s’inspirant de la Biosphère.
