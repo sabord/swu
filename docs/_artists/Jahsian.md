@@ -1,7 +1,7 @@
 ---
 layout: artist
 modal-id: 46
-name: Livia Luna
+name: Jahsian
 directory: 46_Jahsian
 sound-system: Tune it up
 tags: 

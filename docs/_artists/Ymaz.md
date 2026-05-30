@@ -30,7 +30,7 @@ links:
   - soundcloud: https://soundcloud.com/ymaz_project
   - bandcamp: https://ymaz.bandcamp.com/
   - mixcloud: 
-  - spotify: https://open.spotify.com/artist/6tfd2qAkQBjO4q6sqaJKQ0
+  - spotify: https://open.spotify.com/artist/0JmUYUoHNrYiLfz97M1Hlf?si=FfsqPwCgTreeevWefvS72A
   - deezer: https://www.deezer.com/fr/artist/281376821
   - apple:
 ---
