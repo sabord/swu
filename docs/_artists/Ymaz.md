@@ -17,7 +17,7 @@ location:
 email: contact.ymaz@gmail.com
 medias:
   - youtube-video-id: wpJllVVaDH4
-  - player-1: <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/artist/0JmUYUoHNrYiLfz97M1Hlf?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  - player-1: <iframe src="https://open.spotify.com/embed/artist/0JmUYUoHNrYiLfz97M1Hlf? width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
   - player-2: 
   - player-3: 
 website: 
@@ -30,8 +30,8 @@ links:
   - soundcloud: https://soundcloud.com/ymaz_project
   - bandcamp: https://ymaz.bandcamp.com/
   - mixcloud: 
-  - spotify: https://open.spotify.com/artist/0JmUYUoHNrYiLfz97M1Hlf?si=FfsqPwCgTreeevWefvS72A
-  - deezer: https://www.deezer.com/fr/artist/281376821
+  - spotify: https://open.spotify.com/artist/0JmUYUoHNrYiLfz97M1Hlf
+  - deezer: https://www.deezer.com/fr/artist/300403331
   - apple:
 ---
 	YMAZ développe un univers musical à la croisée du downtempo, du trip-hop et du dub.
