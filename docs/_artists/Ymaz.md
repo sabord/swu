@@ -9,6 +9,8 @@ tags:
   - instrumentiste
 skills: 
   - musicienne
+  - compositrice
+  - interprète
 location:
   - Pays de la Loire
   - Bretagne
