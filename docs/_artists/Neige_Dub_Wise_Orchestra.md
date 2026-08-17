@@ -9,7 +9,8 @@ tags:
   - instrumentiste
   - selecta
 skills: 
-  - altiste / violoniste
+  - altiste
+  - violoniste
   - productrice
   - selectress
 location:
